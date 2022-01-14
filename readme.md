@@ -1,6 +1,7 @@
+Aluno: Rondley |
+Professor: Francisco Rodrigues | IFS 
 
-| [Exercícios][Estudo] | [Avaliação] | [Dicas] | [Biblioteca Virtual][biblioteca virtual] |
-|----------|------------|---------|----------------|------| 
+| [Exercícios][Estudo] | [Avaliação][Estudo] | [Dicas][Dicas] | [Biblioteca Virtual][biblioteca virtual] |
 
 - - -
 
